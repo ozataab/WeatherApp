@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+.container{
+ 
+    color: #fff;
+
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+  
+    flex-direction: column;
+    row-gap: 15px;
+    height: 95vh;
+    width: 100%;
+    overflow: hidden;
+    font-weight: 700;
+    text-transform:uppercase ;
+    align-items: center;
+    justify-content: center;
+}
+.baslik{
+ 
+  text-transform:uppercase ;
+    text-shadow: 5px;
+  text-decoration: underline;
+}
+.container .img1{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+   object-fit: cover;
+   margin-top: 0;
+}
+.derece{
+    font-size: 25px;
+  color: black;
+   margin-bottom: 20px;
+
+   
+}
