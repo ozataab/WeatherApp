@@ -1,2 +1,1 @@
-Link :https://ozataab.github.io/WeatherApp/
-
+Link :https://github.com/ozataab/WeatherApp.git
